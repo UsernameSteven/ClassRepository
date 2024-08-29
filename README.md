@@ -40,7 +40,7 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
 * __Rogue:__ Stealthy and adept at trickery and deception.
  * __Wizard:__ Uses magic with a focus on spells and intelligence.
  * __Cleric:__ A divine spellcaster who can heal and support allies.
-   * __Ranger:__ A skilled hunter and tracker, often with animal companions.
+ * __Ranger:__ A skilled hunter and tracker, often with animal companions.
  * __Paladin:__ A holy warrior dedicated to a cause, combining combat and divine magic.
    ## Campaigns
    ## Rules
