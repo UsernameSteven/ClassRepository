@@ -36,8 +36,8 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
    ## Characters
    # Each character belongs to a class that determines their abilities and role in the game. Common classes include:
 
- ** Fighter:** Skilled in combat and weaponry.
- ** Rogue:** Stealthy and adept at trickery and deception.
+ * Fighter: Skilled in combat and weaponry.
+** Rogue: Stealthy and adept at trickery and deception.
  ** Wizard:** Uses magic with a focus on spells and intelligence.
  ** Cleric:** A divine spellcaster who can heal and support allies.
  ** Ranger:** A skilled hunter and tracker, often with animal companions.
