@@ -1,7 +1,7 @@
 # D&D Repository 
 /DungeonsAndDragonsRepo
 ## Races
- Human,
+ #### Human,
  Elf,
  Dwarf,
  Halfling,
