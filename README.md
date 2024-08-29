@@ -4,4 +4,5 @@
    ## Campaigns
    ## Rules
    ## Adventures
+   mkdir Characters Campaigns Rules Adventures
    
