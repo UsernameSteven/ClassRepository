@@ -2,22 +2,29 @@
 /DungeonsAndDragonsRepo
 ## Races
  ### Human,
+ Description: Versatile and adaptable, humans are known for their ambition and diversity. They can be found in any environment and often excel in various fields.
   ![image](https://github.com/user-attachments/assets/6663b29f-b7a4-4b76-9f3c-7558b526cada)
 
 
  ### Elf,
+ Description: Graceful and long-lived, elves are known for their keen senses and connection to nature. They are often skilled in magic and archery, with subraces like High Elves and Wood Elves.
  ![image](https://github.com/user-attachments/assets/e71312ff-56af-493a-b579-53d592b57a98)
 
 ### Dwarf,
+Description: Sturdy and resilient, dwarves are master craftsmen and warriors. They have a strong sense of honor and community. Subraces include Hill Dwarves and Mountain Dwarves.
 ![image](https://github.com/user-attachments/assets/8b70cbdf-cf75-4eb8-a8d1-5f6bc3e9c8a7)
 
 ### Halfling,
+Description: Small and nimble, halflings are known for their cheerful demeanor and resourcefulness. They excel in stealth and are often lucky, with subraces like Lightfoot and Stout.
 ![image](https://github.com/user-attachments/assets/7b48d2f4-e8cb-4701-8367-0423f0a3e0c9)
 
  ### Tiefling,
+ Description: With infernal heritage, tieflings possess unique features such as horns and tails. They often face prejudice but are known for their resilience and charisma.
+
  ![image](https://github.com/user-attachments/assets/7ee4f856-8c6d-4044-a9c1-ddf11bf35fcf)
 
 ### Dragonborn,
+Description: Proud and strong, dragonborn are humanoid dragons with draconic ancestry. They are known for their breath weapon and honor-bound nature.
 ![image](https://github.com/user-attachments/assets/bdacc8a3-4638-4839-b7a1-415e4f779d0d)
 
    ## Characters
