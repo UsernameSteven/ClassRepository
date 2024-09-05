@@ -1,17 +1,18 @@
 # D&D Repository 
 /DungeonsAndDragonsRepo
 
-#*__listen to me while you browse__ <[!DOCTYPE html](https://suno.com/song/c0f7677b-96eb-4bf3-9518-ace58ba23585)>
+#*__listen to me while you browse__ 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>My D&D Repo</title>
 </head>
 <body>
     <h1>Welcome to My D&D Repository</h1>
     <audio controls autoplay>
-        <source src="[music/your-music-file.mp3](https://suno.com/song/c0f7677b-96eb-4bf3-9518-ace58ba23585)" type="audio/mpeg">
+        <source src=https://suno.com/song/c0f7677b-96eb-4bf3-9518-ace58ba23585 type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </body>
