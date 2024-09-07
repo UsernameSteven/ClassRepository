@@ -46,8 +46,8 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
  * __Ranger:__ A skilled hunter and tracker, often with animal companions.
  * __Paladin:__ A holy warrior dedicated to a cause, combining combat and divine magic.
    ## Campaigns
-   Here is a link for any First time [Dungeon Masters](https://www.dndbeyond.com/forums/dungeons-dragons-discussion/dungeon-masters-only/21747-first-time-dm-which-campaign)
-   Along with some Beginner Friendly [Campaigns](https://www.cbr.com/dnd-campaigns-for-new-players-dm/)
+   Here is a link for any First time [Dungeon Masters](https://www.dndbeyond.com/forums/dungeons-dragons-discussion/dungeon-masters-only/21747-first-time-dm-which-campaign),
+   along with some Beginner Friendly [Campaigns](https://www.cbr.com/dnd-campaigns-for-new-players-dm/)
 
    ## Rules
    ## Adventures
