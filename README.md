@@ -101,7 +101,7 @@ __Party Dynamics:__ Remind players to work together and strategize during encoun
 __Focus on Enjoyment:__ Remind everyone that the primary goal is to have fun, rather than strictly following all the rules.
 __Flexible DMing:__ The DM can adjust challenges based on player experience and comfort levels.
 
-Here are some links to help undertand some basic D&D rules for [Beginners](https://www.dndbeyond.com/sources/dnd/basic-rules-2014)
+Here are some links to help undertand some basic [D&D](https://www.youtube.com/watch?v=RO2qv5Uin9c) rules for [Beginners](https://www.dndbeyond.com/sources/dnd/basic-rules-2014)
 
 
    ## Adventures
