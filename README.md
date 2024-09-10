@@ -45,6 +45,7 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
  * __Cleric:__ A divine spellcaster who can heal and support allies.
  * __Ranger:__ A skilled hunter and tracker, often with animal companions.
  * __Paladin:__ A holy warrior dedicated to a cause, combining combat and divine magic.
+   These are just starter charactors, there are many more and many others variant that exist and that can be developed by the DM or group depending on the campaign. Check out this links for more (charactors and ideas:)[https://www.dndbeyond.com/races} 
    
    # Campaigns
    ## __Key Elements of a D&D Campaign__
