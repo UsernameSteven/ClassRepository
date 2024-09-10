@@ -85,6 +85,8 @@ In summary, a D&D campaign is a collaborative storytelling experience where play
    along with some Beginner Friendly [Campaigns](https://www.cbr.com/dnd-campaigns-for-new-players-dm/)
 
    # Basic Rules for Beginners
+  ![image](https://github.com/user-attachments/assets/bcb384f6-3d8d-470a-8e02-9f1b1ef452ad)
+
  * __Character Creation:__
 __Simplify Choices:__ Use pre-generated characters or simplified character sheets to ease the process.
 __Focus on Essentials:__ Choose a race and class that are straightforward, like a Human Fighter or Elf Rogue.
