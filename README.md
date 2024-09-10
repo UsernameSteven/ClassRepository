@@ -7,7 +7,8 @@
  ### Human,
  Description: Versatile and adaptable, humans are known for their ambition and diversity. They can be found in any environment and often excel in various fields.
  
-  ![image](https://github.com/user-attachments/assets/6663b29f-b7a4-4b76-9f3c-7558b526cada)
+  ![image](https://github.com/user-attachments/assets/c4be959f-9bde-4756-aba2-8992a8924981)
+
 
 
  ### Elf,
