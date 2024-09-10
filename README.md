@@ -84,7 +84,7 @@ In summary, a D&D campaign is a collaborative storytelling experience where play
    __Here is a link for any First time [Dungeon Masters](https://www.dndbeyond.com/forums/dungeons-dragons-discussion/dungeon-masters-only/21747-first-time-dm-which-campaign),
    along with some Beginner Friendly [Campaigns](https://www.cbr.com/dnd-campaigns-for-new-players-dm/)__
 
-# Basic Rules for Beginners
+# Basic Rules for Beginners 
   ![image](https://github.com/user-attachments/assets/bcb384f6-3d8d-470a-8e02-9f1b1ef452ad)
 
  * __Character Creation:__
@@ -119,6 +119,6 @@ __Here are some links to help undertand some basic [D&D](https://www.youtube.com
 
 __For more info check this Website for [beginners](https://www.polygon.com/deals/21294556/dnd-how-to-play-dungeons-dragons-5e-guide-spells-dice-character-sheets-dm)__
 
-🚨 **Rules** 🚨
+
    
 
