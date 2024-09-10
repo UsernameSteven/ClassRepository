@@ -45,26 +45,27 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
  * __Cleric:__ A divine spellcaster who can heal and support allies.
  * __Ranger:__ A skilled hunter and tracker, often with animal companions.
  * __Paladin:__ A holy warrior dedicated to a cause, combining combat and divine magic.
+   
    # Campaigns
    ## __Key Elements of a D&D Campaign__
-*__Story Arc:__
+* __Story Arc:__
 A campaign usually has an overarching narrative that unfolds over multiple sessions, often involving a central conflict, such as a looming threat or a quest for a powerful artifact.
-*__Setting:__
+* __Setting:__
 The campaign is set in a specific world or universe, which can be a published setting (like the Forgotten Realms) or a homebrew world created by the Dungeon Master (DM).
-*__Characters:__
+* __Characters:__
 Players create characters who embark on the adventures. These characters evolve over time, gaining experience, abilities, and personal stories.
-*__Adventures:__
+* __Adventures:__
 Each session or game night typically focuses on a specific adventure or quest that contributes to the larger campaign narrative. These can vary in tone, from combat-heavy encounters to roleplaying-focused interactions.
-*__Dungeon Master (DM):__
+* __Dungeon Master (DM):__
 The DM guides the story, controls non-player characters (NPCs), and presents challenges and scenarios for the players to navigate. The DM is responsible for world-building and maintaining the campaign's flow.
-*__Player Agency:__
+* __Player Agency:__
 Players make choices that affect the direction of the campaign. Their decisions can lead to different outcomes and shape the world around them.
-*__Themes and Tone:__
+* __Themes and Tone:__
 Campaigns can vary in themes—fantasy, horror, mystery, etc.—and tone, ranging from light-hearted to dark and serious.
-*__Duration and Structure__
+* __Duration and Structure__
 __Length:__* Campaigns can last from a few sessions to several years, depending on the group's interest and commitment.
 __Episodic Nature:__* Many campaigns have episodic elements, where each session feels like a standalone story while still contributing to the overall plot.
-*__Conclusion__
+* __Conclusion__
 In summary, a D&D campaign is a collaborative storytelling experience where players immerse themselves in a rich narrative, developing their characters and influencing the world through their actions and choices.
 
    Here is a link for any First time [Dungeon Masters](https://www.dndbeyond.com/forums/dungeons-dragons-discussion/dungeon-masters-only/21747-first-time-dm-which-campaign),
