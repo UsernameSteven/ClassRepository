@@ -14,7 +14,8 @@
  ### Elf,
  Description: Graceful and long-lived, elves are known for their keen senses and connection to nature. They are often skilled in magic and archery, with subraces like High Elves and Wood Elves.
  
- ![image](https://github.com/user-attachments/assets/e71312ff-56af-493a-b579-53d592b57a98)
+ ![image](https://github.com/user-attachments/assets/b7d92d03-51e9-4f10-ac81-bb7af2bf4ff3)
+
 
 ### Dwarf,
 Description: Sturdy and resilient, dwarves are master craftsmen and warriors. They have a strong sense of honor and community. Subraces include Hill Dwarves and Mountain Dwarves.
