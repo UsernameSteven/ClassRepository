@@ -40,6 +40,8 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
 
 
    # Characters
+   ![image](https://github.com/user-attachments/assets/6ceeaef5-5df6-40f6-a10d-0350a2a26e6a)
+
    ## Each character belongs to a class that determines their abilities and role in the game. Common classes include:
 
  * __Fighter:__ Skilled in combat and weaponry.
