@@ -40,7 +40,8 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
 
 
    # Characters
-   ![image](https://github.com/user-attachments/assets/6ceeaef5-5df6-40f6-a10d-0350a2a26e6a)
+ ![image](https://github.com/user-attachments/assets/7df7daa4-1214-4f19-b5f9-8b184d9b4b84)
+
 
    ## Each character belongs to a class that determines their abilities and role in the game. Common classes include:
 
@@ -54,7 +55,8 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
    These are just starter charactors and races, there are many more and many others variants that exist, all can be developed by the DM or group depending on the campaign. Check out this links for more [charactor variants and charactor ideas:](https://www.dndbeyond.com/races) 
    
    # Campaigns
-![image](https://github.com/user-attachments/assets/1eb3a969-0c67-48f9-b791-d484c83a712f)
+![image](https://github.com/user-attachments/assets/c262448e-aa22-49b1-acf3-cc4d54759335)
+
 
 
    ## __Key Elements of a D&D Campaign__
