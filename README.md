@@ -53,7 +53,7 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
  * __Ranger:__ A skilled hunter and tracker, often with animal companions.
  * __Paladin:__ A holy warrior dedicated to a cause, combining combat and divine magic.
    
-   These are just starter charactors and races, there are many more and many others variants that exist, all can be developed by the DM or group depending on the campaign. Check out this links for more [charactor variants and charactor ideas:](https://www.dndbeyond.com/races) 
+   __These are just starter charactors and races, there are many more and many others variants that exist, all can be developed by the DM or group depending on the campaign. Check out this links for more [charactor variants and charactor ideas:](https://www.dndbeyond.com/races)__ 
    
 # Campaigns
  ![image](https://github.com/user-attachments/assets/d95d051e-3caa-4330-bf9f-1505a1dc7ee1)
@@ -81,8 +81,8 @@ __Episodic Nature:__* Many campaigns have episodic elements, where each session 
 * __Conclusion__
 In summary, a D&D campaign is a collaborative storytelling experience where players immerse themselves in a rich narrative, developing their characters and influencing the world through their actions and choices.
 
-   Here is a link for any First time [Dungeon Masters](https://www.dndbeyond.com/forums/dungeons-dragons-discussion/dungeon-masters-only/21747-first-time-dm-which-campaign),
-   along with some Beginner Friendly [Campaigns](https://www.cbr.com/dnd-campaigns-for-new-players-dm/)
+   __Here is a link for any First time [Dungeon Masters](https://www.dndbeyond.com/forums/dungeons-dragons-discussion/dungeon-masters-only/21747-first-time-dm-which-campaign),
+   along with some Beginner Friendly [Campaigns](https://www.cbr.com/dnd-campaigns-for-new-players-dm/)__
 
 # Basic Rules for Beginners
   ![image](https://github.com/user-attachments/assets/bcb384f6-3d8d-470a-8e02-9f1b1ef452ad)
@@ -111,12 +111,12 @@ __Party Dynamics:__ Remind players to work together and strategize during encoun
 __Focus on Enjoyment:__ Remind everyone that the primary goal is to have fun, rather than strictly following all the rules.
 __Flexible DMing:__ The DM can adjust challenges based on player experience and comfort levels.
 
-Here are some links to help undertand some basic [D&D](https://www.youtube.com/watch?v=RO2qv5Uin9c) rules for [Beginners](https://www.dndbeyond.com/sources/dnd/basic-rules-2014)
+__Here are some links to help undertand some basic [D&D](https://www.youtube.com/watch?v=RO2qv5Uin9c) rules for [Beginners](https://www.dndbeyond.com/sources/dnd/basic-rules-2014)__
 
 
 # Adventures
    ![image](https://github.com/user-attachments/assets/f43be66d-6fb1-4284-9fc5-5f52ad3846c3)
 
-For more info check this Website for [beginners](https://www.polygon.com/deals/21294556/dnd-how-to-play-dungeons-dragons-5e-guide-spells-dice-character-sheets-dm)
+__For more info check this Website for [beginners](https://www.polygon.com/deals/21294556/dnd-how-to-play-dungeons-dragons-5e-guide-spells-dice-character-sheets-dm)__
    
 
