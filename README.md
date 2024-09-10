@@ -118,5 +118,7 @@ __Here are some links to help undertand some basic [D&D](https://www.youtube.com
    ![image](https://github.com/user-attachments/assets/f43be66d-6fb1-4284-9fc5-5f52ad3846c3)
 
 __For more info check this Website for [beginners](https://www.polygon.com/deals/21294556/dnd-how-to-play-dungeons-dragons-5e-guide-spells-dice-character-sheets-dm)__
+
+🚨 **Rules** 🚨
    
 
