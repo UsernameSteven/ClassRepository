@@ -52,6 +52,8 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
    These are just starter charactors and races, there are many more and many others variants that exist, all can be developed by the DM or group depending on the campaign. Check out this links for more [charactor variants and charactor ideas:](https://www.dndbeyond.com/races) 
    
    # Campaigns
+   ![image](https://github.com/user-attachments/assets/4ebc6caf-cb74-4518-baaf-36a7946d488c)
+
    ## __Key Elements of a D&D Campaign__
 * __Story Arc:__
 A campaign usually has an overarching narrative that unfolds over multiple sessions, often involving a central conflict, such as a looming threat or a quest for a powerful artifact.
