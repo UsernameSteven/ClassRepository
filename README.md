@@ -36,8 +36,8 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
 ![image](https://github.com/user-attachments/assets/b095c852-e992-4908-a19c-7b62ed170351)
 
 
-   ## Characters
-   # Each character belongs to a class that determines their abilities and role in the game. Common classes include:
+   # Characters
+   ## Each character belongs to a class that determines their abilities and role in the game. Common classes include:
 
  * __Fighter:__ Skilled in combat and weaponry.
 * __Rogue:__ Stealthy and adept at trickery and deception.
@@ -45,8 +45,8 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
  * __Cleric:__ A divine spellcaster who can heal and support allies.
  * __Ranger:__ A skilled hunter and tracker, often with animal companions.
  * __Paladin:__ A holy warrior dedicated to a cause, combining combat and divine magic.
-   ## Campaigns
-   # __Key Elements of a D&D Campaign__
+   # Campaigns
+   ## __Key Elements of a D&D Campaign__
 *__Story Arc:__
 A campaign usually has an overarching narrative that unfolds over multiple sessions, often involving a central conflict, such as a looming threat or a quest for a powerful artifact.
    Here is a link for any First time [Dungeon Masters](https://www.dndbeyond.com/forums/dungeons-dragons-discussion/dungeon-masters-only/21747-first-time-dm-which-campaign),
