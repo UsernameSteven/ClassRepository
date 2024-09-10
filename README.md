@@ -76,7 +76,34 @@ In summary, a D&D campaign is a collaborative storytelling experience where play
    Here is a link for any First time [Dungeon Masters](https://www.dndbeyond.com/forums/dungeons-dragons-discussion/dungeon-masters-only/21747-first-time-dm-which-campaign),
    along with some Beginner Friendly [Campaigns](https://www.cbr.com/dnd-campaigns-for-new-players-dm/)
 
-   ## Rules
+   # Basic Rules for Beginners
+ * __Character Creation:__
+__Simplify Choices:__ Use pre-generated characters or simplified character sheets to ease the process.
+__Focus on Essentials:__ Choose a race and class that are straightforward, like a Human Fighter or Elf Rogue.
+* __Core Mechanics:__
+__Rolling Dice:__ The basic mechanic revolves around rolling a d20 (20-sided die) for most actions. A higher roll usually means better success.
+__Ability Scores:__ Familiarize players with the six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma) that influence their character's capabilities.
+* __Combat Basics:__
+__Turn Order:__ Establish a turn order based on initiative rolls to determine who acts first in combat.
+__Actions on Your__ Turn: Each turn, players can typically take one action (attack, cast a spell, etc.) and one movement.
+* __Roleplaying:__
+__Encourage Imagination:__ Players should feel free to describe their character's actions and motivations.
+__Use NPCs:__ The DM can introduce non-player characters (NPCs) to help move the story along and provide quests.
+* __Simplified Rules:__
+__Focus on the Essentials:__ Use the basic rules for combat, skills, and spells. Avoid advanced rules for a smoother experience.
+__Homebrew as Needed:__ Feel free to modify or simplify rules that might be too complex for new players.
+* __Session Zero:__
+__Discuss Expectations:__ Have an introductory session to discuss the campaign's tone, themes, and player comfort levels.
+__Character Backstories:__ Encourage players to create simple backstories that can tie into the campaign.
+* __Encouraging Teamwork:__
+__Party Dynamics:__ Remind players to work together and strategize during encounters, leveraging their characters’ strengths.
+* __Keep It Fun:__
+__Focus on Enjoyment:__ Remind everyone that the primary goal is to have fun, rather than strictly following all the rules.
+__Flexible DMing:__ The DM can adjust challenges based on player experience and comfort levels.
+
+Here are some links to help undertand some basic D&D rules for [Beginners](https://www.dndbeyond.com/sources/dnd/basic-rules-2014)
+
+
    ## Adventures
 For more info check this Website for [beginners](https://www.polygon.com/deals/21294556/dnd-how-to-play-dungeons-dragons-5e-guide-spells-dice-character-sheets-dm)
    
