@@ -25,7 +25,8 @@ Description: Sturdy and resilient, dwarves are master craftsmen and warriors. Th
 ### Halfling,
 Description: Small and nimble, halflings are known for their cheerful demeanor and resourcefulness. They excel in stealth and are often lucky, with subraces like Lightfoot and Stout.
 
-![image](https://github.com/user-attachments/assets/7b48d2f4-e8cb-4701-8367-0423f0a3e0c9)
+![image](https://github.com/user-attachments/assets/f6f49a53-0a53-4833-bf93-2db3a1ffcd11)
+
 
  ### Tiefling,
  Description: With infernal heritage, tieflings possess unique features such as horns and tails. They often face prejudice but are known for their resilience and charisma.
