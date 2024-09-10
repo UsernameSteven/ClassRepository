@@ -39,7 +39,7 @@ Description: Proud and strong, dragonborn are humanoid dragons with draconic anc
 ![image](https://github.com/user-attachments/assets/b095c852-e992-4908-a19c-7b62ed170351)
 
 
-   # Characters
+# Characters
 ![image](https://github.com/user-attachments/assets/032c6f29-6ecd-4a51-9542-58f16303bbab)
 
 
@@ -114,7 +114,7 @@ __Flexible DMing:__ The DM can adjust challenges based on player experience and 
 Here are some links to help undertand some basic [D&D](https://www.youtube.com/watch?v=RO2qv5Uin9c) rules for [Beginners](https://www.dndbeyond.com/sources/dnd/basic-rules-2014)
 
 
-   # Adventures
+# Adventures
    ![image](https://github.com/user-attachments/assets/f43be66d-6fb1-4284-9fc5-5f52ad3846c3)
 
 For more info check this Website for [beginners](https://www.polygon.com/deals/21294556/dnd-how-to-play-dungeons-dragons-5e-guide-spells-dice-character-sheets-dm)
