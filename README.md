@@ -5,7 +5,7 @@
 * [![image](https://github.com/user-attachments/assets/9ea7affa-e059-4354-816c-deba14cd4eec)](https://suno.com/song/c0f7677b-96eb-4bf3-9518-ace58ba23585)
 
  # Races 
- ### <u>Human,</u>
+ ### <u>Human,<u>
  Description: Versatile and adaptable, humans are known for their ambition and diversity. They can be found in any environment and often excel in various fields.
  
   [![image](https://github.com/user-attachments/assets/c4be959f-9bde-4756-aba2-8992a8924981)](https://www.dndbeyond.com/races/1-human)
