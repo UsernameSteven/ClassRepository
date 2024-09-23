@@ -13,29 +13,29 @@
 
 
 
- ### Elf,
+ ### ***Elf,***
  Description: Graceful and long-lived, elves are known for their keen senses and connection to nature. They are often skilled in magic and archery, with subraces like High Elves and Wood Elves.
  
  [![image](https://github.com/user-attachments/assets/b7d92d03-51e9-4f10-ac81-bb7af2bf4ff3)](https://www.dndbeyond.com/races/3-elf)
 
 
-### Dwarf,
+### ***Dwarf,***
 Description: Sturdy and resilient, dwarves are master craftsmen and warriors. They have a strong sense of honor and community. Subraces include Hill Dwarves and Mountain Dwarves.
 
 [![image](https://github.com/user-attachments/assets/8b70cbdf-cf75-4eb8-a8d1-5f6bc3e9c8a7)](https://www.dndbeyond.com/races/13-dwarf)
 
-### Halfling,
+### ***Halfling,***
 Description: Small and nimble, halflings are known for their cheerful demeanor and resourcefulness. They excel in stealth and are often lucky, with subraces like Lightfoot and Stout.
 
 [![image](https://github.com/user-attachments/assets/f6f49a53-0a53-4833-bf93-2db3a1ffcd11)](https://www.dndbeyond.com/races/14-halfling)
 
 
- ### Tiefling,
+ ### ***Tiefling,***
  Description: With infernal heritage, tieflings possess unique features such as horns and tails. They often face prejudice but are known for their resilience and charisma.
 
  [![image](https://github.com/user-attachments/assets/7ee4f856-8c6d-4044-a9c1-ddf11bf35fcf)](https://www.dndbeyond.com/races/7-tiefling)
 
-### Dragonborn,
+### ***Dragonborn,***
 Description: Proud and strong, dragonborn are humanoid dragons with draconic ancestry. They are known for their breath weapon and honor-bound nature.
 
 [![image](https://github.com/user-attachments/assets/b095c852-e992-4908-a19c-7b62ed170351)](https://www.dndbeyond.com/races/16-dragonborn)
