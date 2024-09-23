@@ -124,8 +124,7 @@ __Here are some links to help undertand some basic [D&D](https://www.youtube.com
 
 
 # Adventures
-   [![image](https://github.com/user-attachments/assets/f43be66d-6fb1-4284-9fc5-5f52ad3846c3)](https://www.dndbeyond.com/sources/dnd/basic-rules-2014)
-
+   [![image](https://github.com/user-attachments/assets/f43be66d-6fb1-4284-9fc5-5f52ad3846c3)](https://www.cbr.com/dnd-5e-best-premade-adventures-for-beginners/)
    ## An adventure in Dungeons & Dragons (D&D) typically consists of a series of challenges and encounters that the players navigate together. Here’s a breakdown for beginners:
 
 * __Setting:__ The adventure takes place in a fictional world, such as a town, dungeon, or forest.
