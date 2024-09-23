@@ -121,12 +121,12 @@ __Here are some links to help undertand some basic [D&D](https://www.youtube.com
 
    ## An adventure in Dungeons & Dragons (D&D) typically consists of a series of challenges and encounters that the players navigate together. Here’s a breakdown for beginners:
 
-__Setting:__ The adventure takes place in a fictional world, such as a town, dungeon, or forest.
-__Quest:__ The players are given a goal, like rescuing a kidnapped villager, retrieving a powerful artifact, or defeating a monster.
-__Encounters:__ Players face various challenges, including combat with monsters, puzzles to solve, and social interactions with non-player characters (NPCs).
-__Exploration:__ Characters explore the environment, discovering clues, treasures, and hidden paths.
-__Character Development:__ Players can develop their characters through choices, gaining experience, new skills, and items.
-__Resolution:__ The adventure concludes when the players achieve their goal, leading to rewards and potential new quests.
+* __Setting:__ The adventure takes place in a fictional world, such as a town, dungeon, or forest.
+* __Quest:__ The players are given a goal, like rescuing a kidnapped villager, retrieving a powerful artifact, or defeating a monster.
+* __Encounters:__ Players face various challenges, including combat with monsters, puzzles to solve, and social interactions with non-player characters (NPCs).
+* __Exploration:__ Characters explore the environment, discovering clues, treasures, and hidden paths.
+* __Character Development:__ Players can develop their characters through choices, gaining experience, new skills, and items.
+* __Resolution:__ The adventure concludes when the players achieve their goal, leading to rewards and potential new quests.
 This structure provides a mix of storytelling, problem-solving, and teamwork, making each adventure a unique experience.
 
    ***-Here is a short example of an adventure for beginners:***
