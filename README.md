@@ -22,7 +22,7 @@
 ### ***Dwarf,***
 Description: Sturdy and resilient, dwarves are master craftsmen and warriors. They have a strong sense of honor and community. Subraces include Hill Dwarves and Mountain Dwarves.
 
-[![image](https://github.com/user-attachments/assets/8b70cbdf-cf75-4eb8-a8d1-5f6bc3e9c8a7)]([[https://www.dndbeyond.com/races/13-dwarf](https://www.dndbeyond.com/races/13-dwarf)](https://www.dndbeyond.com/races/13-dwarf))
+[![image](https://github.com/user-attachments/assets/8b70cbdf-cf75-4eb8-a8d1-5f6bc3e9c8a7)](https://www.dndbeyond.com/races/13-dwarf)
 
 ### ***Halfling,***
 Description: Small and nimble, halflings are known for their cheerful demeanor and resourcefulness. They excel in stealth and are often lucky, with subraces like Lightfoot and Stout.
