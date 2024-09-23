@@ -119,6 +119,10 @@ __Here are some links to help undertand some basic [D&D](https://www.youtube.com
 # Adventures
    [![image](https://github.com/user-attachments/assets/f43be66d-6fb1-4284-9fc5-5f52ad3846c3)](https://www.dndbeyond.com/sources/dnd/basic-rules-2014)
 
+   ***-Here is a short example of an adventure for beginners:***
+
+   In this beginner D&D adventure, the party of novice heroes is summoned to the quaint village of Willowdale, where mysterious disappearances have plagued the townsfolk. As they investigate, they uncover a hidden cave nearby, inhabited by mischievous goblins who are kidnapping villagers to serve their mischievous leader. The heroes must navigate traps, engage in combat, and solve puzzles to rescue the captives and confront the goblin leader. Along the way, they’ll forge friendships with the villagers, discover ancient secrets, and learn the true meaning of teamwork and bravery.
+
 __For more info click the picture or check this Website for [beginners](https://www.dndbeyond.com/sources/dnd/basic-rules-2014)__
 
 
