@@ -7,7 +7,8 @@
 
  * [Characters](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#characters)
  * [Campaigns](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#campaigns)
- * [Basic Rules for Beginners](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#basic-rules-for-beginners) 
+ * [Basic Rules for Beginners](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#basic-rules-for-beginners)
+ * [Adventures](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#adventures)
 
  # Races 
  ### ***Human,***
