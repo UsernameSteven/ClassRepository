@@ -12,6 +12,7 @@
  * [Campaigns](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#campaigns)
  * [Basic Rules for Beginners](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#basic-rules-for-beginners)
  * [Adventures](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#adventures)
+ * [Group Dynamics in D&D]
 
  # Races 
  ### ***Human,***
@@ -149,6 +150,7 @@ This structure provides a mix of storytelling, problem-solving, and teamwork, ma
 
 __For more info click the picture or check this Website for [beginners](https://www.dndbeyond.com/sources/dnd/basic-rules-2014)__
 
+# Group Dynamics in D&D
 
    
 
