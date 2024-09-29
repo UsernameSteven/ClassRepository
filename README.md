@@ -152,7 +152,7 @@ __For more info click the picture or check this Website for [beginners](https://
 
 # Group Dynamics in D&D
 
-![image](https://github.com/user-attachments/assets/6f549260-bf97-4ad4-a3c6-394d89eac4dc)
+[![image](https://github.com/user-attachments/assets/6f549260-bf97-4ad4-a3c6-394d89eac4dc)](https://dndatwork.com/the-secrets-of-teamwork/)
 
 
 - ## Benefits of Group Dynamics in D&D
@@ -169,5 +169,6 @@ __For more info click the picture or check this Website for [beginners](https://
 * __Celebrate Wins:__ Acknowledge achievements, both big and small, to build camaraderie and reinforce teamwork.
 * __Be Open to Feedback:__ Encourage players to communicate openly about their experiences, ensuring everyone feels heard and valued.
 
+Click on the picture or check out his link to for some tips on Teamwork and [Dynamics](https://dndatwork.com/the-secrets-of-teamwork/) of DnD
    
 
