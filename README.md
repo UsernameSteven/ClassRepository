@@ -152,6 +152,9 @@ __For more info click the picture or check this Website for [beginners](https://
 
 # Group Dynamics in D&D
 
+![image](https://github.com/user-attachments/assets/6f549260-bf97-4ad4-a3c6-394d89eac4dc)
+
+
 - ## Benefits of Group Dynamics in D&D
 * __Collaborative Teamwork:__ D&D emphasizes working together, allowing players to leverage each other's strengths and skills for collective success.
 * __Defined Roles:__ Each character class has unique abilities, helping players understand their roles within the party. This clarity encourages players to contribute meaningfully.
