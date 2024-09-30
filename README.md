@@ -174,6 +174,9 @@ Click on the picture or check out his link to for some tips on Teamwork and [Dyn
 
 # Themes   
 
+[![image](https://github.com/user-attachments/assets/9460be21-9de2-40e0-bfdc-55b1ea13550e)](https://murphysvaultccgs.wordpress.com/2018/04/04/dd-level-up-character-themes/)
+
+
 ## Components of a Theme
 * __Character Identity:__ Defines who the character is (e.g., hero, anti-hero, wildcard).
 Influences their backstory, personality traits, and outlook on life.
@@ -192,3 +195,4 @@ Importance of Themes
 * __Storytelling:__ Themes contribute to the larger narrative of the campaign, creating richer stories and interactions.
 * __Player Engagement:__ A well-defined theme can make a character more relatable and engaging for both the player and the group.
 
+Click on the picture or check out this link for some ideas of good DnD [Themes](https://murphysvaultccgs.wordpress.com/2018/04/04/dd-level-up-character-themes/)
