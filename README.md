@@ -196,3 +196,36 @@ Importance of Themes
 * __Player Engagement:__ A well-defined theme can make a character more relatable and engaging for both the player and the group.
 
 Click on the picture or check out this link for some ideas of good DnD [Themes](https://murphysvaultccgs.wordpress.com/2018/04/04/dd-level-up-character-themes/)
+
+## Learning Resources for Beginners 
+
+[![image](https://github.com/user-attachments/assets/53703f73-3746-4786-a72d-f14698e226ff)](https://dnd.wizards.com/resources/educators)
+
+
+ ## Official Rulebooks
+* __Player’s Handbook (PHB):__ The core rulebook that covers character creation, rules, and gameplay.
+* __Dungeons & Dragons Starter Set:__ Includes simplified rules and a beginner-friendly adventure.
+
+## Online Resources
+* [__D&D Beyond:__](https://dnd.wizards.com/resources/educators) A comprehensive digital toolset for character creation, rules, and resources.
+* [__Roll a D20:__](https://rolladie.net/roll-a-d20-die) An online platform for playing D&D with virtual tabletop features and built-in rules.
+
+## Videos and Tutorials
+* __YouTube Channels:__ __Critical Role:__ A popular show featuring voice actors playing D&D, great for seeing gameplay in action. __The Dungeon Coach:__ Offers tutorials and tips for new players and DMs.
+* __How to Play D&D:__ Search for beginner guides on YouTube that explain the basics of gameplay.
+
+## Podcasts
+* __The Adventure Zone:__ A comedic podcast where a family plays D&D, showcasing storytelling and character development.
+* __Dungeons and Daddies:__ A humorous podcast featuring a group of dads playing D&D, great for entertainment and inspiration.
+
+##  Community and Forums
+* __Reddit:__ Subreddits like r/DnD and r/DnDBehindTheScreen are great for asking questions and sharing experiences.
+* __Discord Servers:__ Join D&D-focused servers for advice, game finding, and community support.
+
+## Books and Novels
+* __D&D Novels:__ Reading novels set in the D&D universe can provide lore and inspiration (e.g., R.A. Salvatore’s Drizzt series).
+* __The Dungeon Master’s Guide (DMG):__ Helpful for those interested in becoming a DM, covering world-building and storytelling.
+
+ ## Local Game Stores
+* __Game Nights:__ Many local game shops host D&D nights where beginners can join games and learn from experienced players.
+* __Workshops and Events:__ Look for introductory workshops or events specifically for newcomers.
