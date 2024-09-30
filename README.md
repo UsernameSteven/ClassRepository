@@ -13,6 +13,7 @@
  * [Basic Rules for Beginners](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#basic-rules-for-beginners)
  * [Adventures](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#adventures)
  * [Group Dynamics in D&D](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#group-dynamics-in-dd)
+ * [Themes](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#themes)
 
  # Races 
  ### ***Human,***
