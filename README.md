@@ -15,6 +15,7 @@
  * [Group Dynamics in D&D](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#group-dynamics-in-dd)
  * [Themes](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#themes)
  * [Learnin Resources for Beginners](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#learning-resources-for-beginners)
+ * [Visual Aids](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#visual-aids)
 
  # Races 
  ### ***Human,***
@@ -198,7 +199,7 @@ Importance of Themes
 
 Click on the picture or check out this link for some ideas of good DnD [Themes](https://murphysvaultccgs.wordpress.com/2018/04/04/dd-level-up-character-themes/)
 
-## Learning Resources for Beginners 
+# Learning Resources for Beginners 
 
 [![image](https://github.com/user-attachments/assets/53703f73-3746-4786-a72d-f14698e226ff)](https://dnd.wizards.com/resources/educators)
 
