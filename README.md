@@ -234,6 +234,9 @@ Click on the picture or check out this link for some ideas of good DnD [Themes](
 
 # Visual Aids
 
+[![image](https://github.com/user-attachments/assets/48d70654-c7cd-4850-bab1-e955a5e1ca7d)](https://www.youtube.com/watch?v=Elog4vM4CBo) 
+
+
 Visual aids can significantly enhance the understanding and enjoyment of Dungeons & Dragons (D&D) for beginners. Here are some effective suggestions:
 
 ## Character Sheets
