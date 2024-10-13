@@ -273,6 +273,9 @@ Check out this link or click the picture to learn more about [Visual Aids](https
 
 # World Building 
 
+![image](https://github.com/user-attachments/assets/12ed6db1-f6c4-40ce-8726-bf08e9a25dd7) 
+
+
 ## Start Small 
 * Focus on a single region or city before expanding. Develop a few key locations, NPCs, and factions to create a foundation.
 ## Define Core Themes
