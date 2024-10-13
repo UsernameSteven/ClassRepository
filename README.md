@@ -16,6 +16,7 @@
  * [Themes](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#themes)
  * [Learnin Resources for Beginners](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#learning-resources-for-beginners)
  * [Visual Aids](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#visual-aids)
+ * [World Building](https://github.com/UsernameSteven/ClassRepository/blob/main/README.md#world-building) 
 
  # Races 
  ### ***Human,***
