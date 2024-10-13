@@ -273,7 +273,7 @@ Check out this link or click the picture to learn more about [Visual Aids](https
 
 # World Building 
 
-![image](https://github.com/user-attachments/assets/12ed6db1-f6c4-40ce-8726-bf08e9a25dd7) 
+[![image](https://github.com/user-attachments/assets/12ed6db1-f6c4-40ce-8726-bf08e9a25dd7)](https://www.youtube.com/watch?v=91FldxlD4-w) 
 
 
 ## Start Small 
@@ -304,3 +304,4 @@ Check out this link or click the picture to learn more about [Visual Aids](https
 * Develop quests and story hooks that arise naturally from the world’s history, cultures, or conflicts. This provides a sense of purpose for players.
 ## Document Everything
 * Keep notes on your world, including important events, NPCs, and locations. This helps maintain consistency and provides a reference for future sessions.
+Check out this link or click the picture above for more tips on [World Building](https://www.youtube.com/watch?v=91FldxlD4-w) 
