@@ -230,3 +230,5 @@ Click on the picture or check out this link for some ideas of good DnD [Themes](
  ## Local Game Stores
 * __Game Nights:__ Many local game shops host D&D nights where beginners can join games and learn from experienced players.
 * __Workshops and Events:__ Look for introductory workshops or events specifically for newcomers.
+
+# Visual Aids
